@@ -1,3 +1,4 @@
+"""udp聊天程序"""
 import socket
 import threading
 
